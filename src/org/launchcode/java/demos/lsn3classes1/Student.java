@@ -17,8 +17,6 @@ public class Student {
     private int numberOfCredits = 0;
     private double gpa = 0.0;
 
-
-
     public String getName(){
         return name;
     }
@@ -44,4 +42,5 @@ public class Student {
     public  void setGpa(Double gpa){
         this.gpa = gpa;
     }
+
 }
