@@ -1,4 +1,4 @@
-package LectureExercises.ExercisesUnit3.ExercisesUnit2;
+package LectureExercises.ExercisesUnit2;
 import java.util.Scanner;
 
 public class Alice {
